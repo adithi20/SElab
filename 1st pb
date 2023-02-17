@@ -1,0 +1,2 @@
+def handler(pd: "Git hub"):
+  print("Hello, World!")
